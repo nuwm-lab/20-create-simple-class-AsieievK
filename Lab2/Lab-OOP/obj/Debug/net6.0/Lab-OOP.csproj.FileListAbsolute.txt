@@ -1,0 +1,15 @@
+C:\Users\HSK\Source\Repos\Lab-OOP\Lab-OOP\bin\Debug\net6.0\Lab-OOP.exe
+C:\Users\HSK\Source\Repos\Lab-OOP\Lab-OOP\bin\Debug\net6.0\Lab-OOP.deps.json
+C:\Users\HSK\Source\Repos\Lab-OOP\Lab-OOP\bin\Debug\net6.0\Lab-OOP.runtimeconfig.json
+C:\Users\HSK\Source\Repos\Lab-OOP\Lab-OOP\bin\Debug\net6.0\Lab-OOP.dll
+C:\Users\HSK\Source\Repos\Lab-OOP\Lab-OOP\bin\Debug\net6.0\Lab-OOP.pdb
+C:\Users\HSK\Source\Repos\Lab-OOP\Lab-OOP\obj\Debug\net6.0\Lab-OOP.csproj.AssemblyReference.cache
+C:\Users\HSK\Source\Repos\Lab-OOP\Lab-OOP\obj\Debug\net6.0\Lab-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HSK\Source\Repos\Lab-OOP\Lab-OOP\obj\Debug\net6.0\Lab-OOP.AssemblyInfoInputs.cache
+C:\Users\HSK\Source\Repos\Lab-OOP\Lab-OOP\obj\Debug\net6.0\Lab-OOP.AssemblyInfo.cs
+C:\Users\HSK\Source\Repos\Lab-OOP\Lab-OOP\obj\Debug\net6.0\Lab-OOP.csproj.CoreCompileInputs.cache
+C:\Users\HSK\Source\Repos\Lab-OOP\Lab-OOP\obj\Debug\net6.0\Lab-OOP.dll
+C:\Users\HSK\Source\Repos\Lab-OOP\Lab-OOP\obj\Debug\net6.0\refint\Lab-OOP.dll
+C:\Users\HSK\Source\Repos\Lab-OOP\Lab-OOP\obj\Debug\net6.0\Lab-OOP.pdb
+C:\Users\HSK\Source\Repos\Lab-OOP\Lab-OOP\obj\Debug\net6.0\Lab-OOP.genruntimeconfig.cache
+C:\Users\HSK\Source\Repos\Lab-OOP\Lab-OOP\obj\Debug\net6.0\ref\Lab-OOP.dll
